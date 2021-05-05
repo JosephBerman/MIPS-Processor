@@ -28,3 +28,6 @@ This verilog files keeps track of the number of instructions that has occurred a
 
 ## reg_file.v
 This verilog file holds 4, 9-bit values as a register for the ALU. 
+
+##
+[I would like thank one of my roommates who worked with me on this project](https://github.com/jassieldeliz)
