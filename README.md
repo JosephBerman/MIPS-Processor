@@ -20,3 +20,11 @@ This verilog file was a mux for the mux leading from the register and a 0 regist
 ## mux_2.v 
 This verilog file was a basic mux
 
+## pdatapath_top_lab6.v
+This verilog file connects all of the verilog IPs together and sends it to the VIO to read the values.
+
+## program_counter.v
+This verilog files keeps track of the number of instructions that has occurred as well as having the ability to jump to a previous instruction.
+
+## reg_file.v
+This verilog file holds 4, 9-bit values as a register for the ALU. 
